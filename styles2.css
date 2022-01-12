@@ -3,7 +3,7 @@ body {
     
 }
 .container {
-    margin-left: 30rem;
+    margin-left: 40rem;
 }
 img {
     width: 40rem;
@@ -18,4 +18,8 @@ img {
 }
 .icons {
     background-color: white;
+}
+.insta {
+    height: 3rem;
+    width: 10rem;
 }
