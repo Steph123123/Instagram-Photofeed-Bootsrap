@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(175, 173, 173);
+    
+}
+.container {
+    margin-left: 30rem;
+}
+img {
+    width: 40rem;
+
+}
+.post {
+    background-color: rgb(255, 255, 255);
+    width: 40rem;
+}
+.post-header {
+    display: flex;
+}
+.icons {
+    background-color: white;
+}
