@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(175, 173, 173);
+    
+}
+.container {
+    margin-left: 20rem;
+}
+img {
+    width: 50rem;
+    height: 35rem;
+}
+.post {
+    background-color: rgb(255, 255, 255);
+    width: 50rem;
+    height: 48rem;
+    margin-top: 2rem;
+}
+.post-header {
+    display: flex;
+    
+}
+.post2{
+    height: 500rem;
+    background-color: rgb(255, 255, 255);
+    width: 50rem;
+    height: 49rem;
+    margin-top: 2rem;
+
+}
+h2{
+    font-size: 3rem;
+    width: 30rem;
+}
+.post3{
+    height: 500rem;
+    background-color: rgb(255, 255, 255);
+    width: 50rem;
+    height: 48rem;
+    margin-top: 2rem;
+}
+.icons {
+    background-color: white;
+}
+
+.insta{
+    width: 1rem;
+    height: 3rem;
+    margin-left: 0.5rem;
+    
+}
+.instalog{
+    margin-top: 0.5rem;
+    margin-left: 15rem;
+}
+span{
+    margin-left: 15rem;
+    font-size: 1rem;
+    
+}
+.footer{
+    display: flex;
+    margin-left: 0.5rem;
+}
+.comment{
+    margin-left: 0.5rem;
+}
+
+----------
+
+html {
+    background-color: rgb(189, 189, 189);
+    
+}
+.container {
+    margin-left: 30rem;
+}
+
+.insta{
+    width: 10rem;
+    height: 3rem;
+}
+.instalog{
+    margin-top: 0.5rem;
+    margin-left: 15rem;
+    
+}
+.cam-place{
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 1.7rem;
+    
+}
+.place{
+    margin-left: 0.5rem;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 1.7rem;
+}
+
+.cont-nav{
+    display: flex;
+}

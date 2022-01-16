@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(175, 173, 173);
+    
+}
+
+img {
+    width: 110%;
+    height: 100%;
+    
+    
+}
+.insta{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 0.5rem;
+    
+}
+.instalog{
+    margin-top: 0.5rem;
+    margin-left: 15rem;
+}
+.cam-place{
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 1.7rem;
+    
+}
+.place{
+    margin-left: 0.5rem;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 1.7rem;
+}
+
+.cont-nav{
+    display: flex;
+}
